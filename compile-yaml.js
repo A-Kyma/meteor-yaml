@@ -2,7 +2,6 @@ import yaml from 'js-yaml'
 
 Plugin.registerCompiler({
   extensions: ['yaml', 'yml'],
-  archMatching: 'web'
 }, () => new YamlCompiler())
 
 

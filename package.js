@@ -1,7 +1,7 @@
 Package.describe({
   name: 'slaivyn:yaml',
   summary: 'Import/require YAML 1.2 files as JS objects in Meteor project',
-  version: '1.0.0',
+  version: '1.0.1',
 })
 
 Package.registerBuildPlugin({
